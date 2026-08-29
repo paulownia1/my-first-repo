@@ -20,6 +20,12 @@
 - Git
 - GitHub
 
+## 我的学习计划
+
+1. 一个月内学会 Git 常用命令
+2. 参与一个开源项目
+3. 用 GitHub Pages 部署自己的网站
+
 ## 联系方式
 
 这是我的 [GitHub 主页](https://github.com/paulownia1)
